@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## Clone Coding
 
-This project is a starting point for a Flutter application.
+Nomard Coder의 Flutter로 웹툰 프로그램 만들기 클론 코딩입니다. </br> 이 과정에서 Flutter를 학습해 보았습니다.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
